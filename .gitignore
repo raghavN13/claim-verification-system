@@ -1,0 +1,8 @@
+.env
+venv/
+knowledge_base/
+__pycache__/
+*.pyc
+.DS_Store
+DEMO_NARRATION_SCRIPT.md
+HACKATHON_DOCUMENTATION.md
